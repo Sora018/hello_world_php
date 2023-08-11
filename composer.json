@@ -1,0 +1,10 @@
+{
+    "name": "admin/hello_world_php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\HelloWorldPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
